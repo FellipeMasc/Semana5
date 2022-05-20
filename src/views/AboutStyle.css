@@ -1,0 +1,14 @@
+.About h1{
+    color: white;
+}
+.About{
+    display:flex;
+    justify-content: center;
+    flex: 1;
+}
+.About p{
+    color: white
+}
+.About .Header{
+    flex: 1;
+}

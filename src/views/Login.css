@@ -1,0 +1,71 @@
+.container{
+    max-width: 23rem;
+    margin: 4rem auto;
+    padding: 0.2rem;
+    font-size: 16px;
+}
+.form1{
+    background: #fff;
+    padding: 1.2rem;
+    border-radius: 0.5rem;
+}
+.form1 h2,
+.form1 p{
+    color: #E6D11F;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+.forms label{
+    display: block;
+}
+.forms input{
+    width: 90%;
+    padding: 1rem;
+    border: #333 0.07rem solid;
+    border-radius: 0.4rem;
+    margin-bottom: 0.6rem;
+    box-shadow: 0.035rem 0.035rem 0.035rem #333
+}
+.btn{
+    background: #8FE1FA;
+    width: 100%;
+    padding: 0.6rem;
+    border: 0rem solid;
+    border-radius: 0.3rem;
+    color: #fff;
+    margin-top: 1.3rem;
+    cursor: pointer;
+}
+a{
+    color: #8FE1FA;
+    text-decoration: none;
+}
+a:hover{
+    color: #083AF3;
+}
+.form2{
+    font-size: 1.1rem;
+    margin-top: 1.4rem;
+    color:#E6D11F;
+    text-align: center;
+}
+button:hover{
+    background: #083AF3;
+}
+#inicio{
+    color: #8FE1FA;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+.forms{
+    text-align: left;
+}
+
+.form1 h2{
+    margin-bottom: 0.4rem;
+    margin-top: 0.5rem;
+}
+.form2 p{
+    margin-bottom: 0.5rem;
+}
