@@ -6,9 +6,27 @@
     justify-content: center;
     flex: 1;
 }
-.About p{
-    color: white
+.About{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
-.About .Header{
-    flex: 1;
+.btnAbout{
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    margin: 50px auto;
+    margin-bottom: 0px;
+}
+.btn{
+    width: 10%;
+    height: 50px;
+}
+em {
+    font-family: Raleway;
+    font-style: normal;
+    font-size: 15px;
 }

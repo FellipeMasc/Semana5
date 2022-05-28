@@ -1,5 +1,4 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
 import "./Login.css"
 
@@ -18,7 +17,7 @@ export default function Card (props) {
                     <label for="senha">Senha</label>
                     <input type="text" />
                 </div>
-                <button className="btn">Entrar</button>
+                <button className="btnLogin">Entrar</button>
             </div>
             <div className="form2">
                 <p className="footer">

@@ -2,6 +2,46 @@
     color: white;
 }
 .Home{
-    display:flex;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
+}
+.btnHome{
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    margin: 50px auto;
+    margin-bottom: 0px;
+}
+.btn{
+    width: 10%;
+    height: 50px;
+    border: 0rem solid;
+    border-radius: 0.3rem;
+    color: #fff;
+    margin-top: 1.3rem;
+    cursor: pointer;
+    background: #8FE1FA;
+    padding: 0.6rem;
+}
+em {
+    font-family: Raleway;
+    font-style: normal;
+    /* font-size: 15px; */
+    font-weight: 600;
+}
+
+.footer2{
+    display: flex;
+    color: white;
+    font-family: Raleway;
+    margin: 30px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.text {
+    margin: 30px auto;
 }
